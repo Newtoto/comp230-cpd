@@ -77,15 +77,15 @@ Last 2 weeks were a bit of a productivity slump, not to an extreme extent, but I
 ## 23rd - 27th October (Week 4)
 
 ### Comp210
-
+Getting a bit more mathsy in this module but I'm quite enjoying that aspect since I've come from that kind of background. Got a 2d square working and a 3d cube. Going to be working on using different shaders for different vertices for the rest of this week.
 
 ### Comp220
-
+Some data manipulation in this session using google sheets to make graphs. I'm confident with sheets so this isn't a concern. I have gathered some data for my game through play testing, just need to clean it up a bit and get it onto the website. For this I decided to use my global game jam since it is quick to play and also testers are less likely to hold back on the negatives since it took 2 days as opposed to the 6 month game project last year. Need to get a proposal together for next week and finish up the data collection.
 
 ### Comp230
 
 
 ### Game Project
-
+With the gun prototype finished, we had a discussion about what project to go ahead with so we can start getting a presentation together. We've gone with the couch co-op driving/cooking game since that felt like the most unique and more of a challenge than the 3rd person shooter.
 
 ### General Comments
