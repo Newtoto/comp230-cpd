@@ -63,13 +63,13 @@ The 9-5 schedule has not been going to plan and I have been working on weekends 
 We had a lecture on HCI methods and types of data (qualitative and quantitative). For qualitative research I should be interviewing around 4 people in more depth about my game and plan out questions. For the quantitative I need to construct a survey and try and get more people to fill it out, I'll aim for around 15-20. I plan on getting this survey and my questions sorted by next week.
 
 ### Comp220
-I got behind in this lecture due to technical issues, I will follow Brian's video and follow this up once I've done that.
+I got behind in this lecture due to technical issues, I will follow Brian's video and follow this up once I've done that. All good after the videos, more or less understanding what's going on now.
 
 ### Comp230
 This week was the hand in for the proposal, initially I struggled to find sources initially, but I went a bit broader and managed to get 13 relevant onces. Based on the feedback, I need to focus my question down a little bit more and make it more specific to programming. The session consisted of 2 dialogues about representation and violence in video games and they went down interesting routes, it is clear from these that some people don't want to contribute so maybe it would be a good idea to bring along some postits or something to next week so we can get a wider contribution from people.
 
 ### Game Project
-We've now moved over to the second prototype which is the wacky guns, I've done some basic player movement, Rob is on the gun script and Alex has done some enemy movement. This prototype is in danger of going the same way as the taco truck one, however since the USP is the gun mechanics it's hard not to do a 3D prototype. I'm drifting away from the idea of doing the RPG for the sake of it being overscoped and I think I will find this project the most fun to work on of the 3 and it seems to break into separate tasks quite nicely.
+We've now moved over to the second prototype which is the wacky guns, I've done some basic player movement, Rob is on the gun script and Alex has done some enemy movement. This prototype is in danger of going the same way as the taco truck one, however since the USP is the gun mechanics it's hard not to do a 3D prototype. I'm drifting away from the idea of doing the RPG for the sake of it being overscoped and I think I will find this project the most fun to work on of the 3 and it seems to break into separate tasks quite nicely. I also cleaned up the repo and have got sorted svn ignore.
 
 ### General Comments
 Last 2 weeks were a bit of a productivity slump, not to an extreme extent, but I know I could and should be doing more. I plan on catching up this weekend, as I have done with these write-ups, and move towards more consistancy next week.
