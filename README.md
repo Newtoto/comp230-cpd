@@ -77,15 +77,20 @@ Last 2 weeks were a bit of a productivity slump, not to an extreme extent, but I
 ## 23rd - 27th October (Week 4)
 
 ### Comp210
-Getting a bit more mathsy in this module but I'm quite enjoying that aspect since I've come from that kind of background. Got a 2d square working and a 3d cube. Going to be working on using different shaders for different vertices for the rest of this week.
-
-### Comp220
 Some data manipulation in this session using google sheets to make graphs. I'm confident with sheets so this isn't a concern. I have gathered some data for my game through play testing, just need to clean it up a bit and get it onto the website. For this I decided to use my global game jam since it is quick to play and also testers are less likely to hold back on the negatives since it took 2 days as opposed to the 6 month game project last year. Need to get a proposal together for next week and finish up the data collection.
 
-### Comp230
+The site is more or less finished and I have got all the data I need. I have 4 graphs currently and will look into what else I can gather from my research.
 
+### Comp220
+Getting a bit more mathsy in this module but I'm quite enjoying that aspect since I've come from that kind of background. Got a 2d square working and a 3d cube. Going to be working on using different shaders for different vertices for the rest of this week.
+
+### Comp230
+One of the dialogues was about workplace ethics so this covered my question of the effects of wellbeing on programmers.
 
 ### Game Project
 With the gun prototype finished, we had a discussion about what project to go ahead with so we can start getting a presentation together. We've gone with the couch co-op driving/cooking game since that felt like the most unique and more of a challenge than the 3rd person shooter.
 
+I have programmed a lot of the car physics this week and have got a lot more done than I thought I would. We should be able to show off the driving in the game pitch on Wednesday next week.
+
 ### General Comments
+Feeling a lot more productive this week. This may partly be down to the game project properly starting or an improvement in my Unity coding. I have been commiting individual changes that I make, and I have told the team through trello and slack about what I'm up to. These were 2 points from a previous CPD which have seen improvement.
