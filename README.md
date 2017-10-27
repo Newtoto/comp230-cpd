@@ -74,7 +74,7 @@ We've now moved over to the second prototype which is the wacky guns, I've done 
 ### General Comments
 Last 2 weeks were a bit of a productivity slump, not to an extreme extent, but I know I could and should be doing more. I plan on catching up this weekend, as I have done with these write-ups, and move towards more consistancy next week.
 
-## 23rd - 27th October (Week 4)
+## 16th - 20th October (Week 4)
 
 ### Comp210
 Some data manipulation in this session using google sheets to make graphs. I'm confident with sheets so this isn't a concern. I have gathered some data for my game through play testing, just need to clean it up a bit and get it onto the website. For this I decided to use my global game jam since it is quick to play and also testers are less likely to hold back on the negatives since it took 2 days as opposed to the 6 month game project last year. Need to get a proposal together for next week and finish up the data collection.
@@ -94,3 +94,27 @@ I have programmed a lot of the car physics this week and have got a lot more don
 
 ### General Comments
 Feeling a lot more productive this week. This may partly be down to the game project properly starting or an improvement in my Unity coding. I have been commiting individual changes that I make, and I have told the team through trello and slack about what I'm up to. These were 2 points from a previous CPD which have seen improvement.
+
+
+## 23rd - 27th October (Week 5)
+
+### Comp210
+Submitted the UR website, finished in good time too and didn't feel rushed despite giving myself extra work by not starting off on the best foot. Part of this was down to it being my first research task and the main aim of this was to improve our research process, which I think I have acknowledged in the report. Despite this, I could have improved the research by looking ahead at the brief early on. Because of this, I have now printed out all of the module briefs and will read through them in the next few days to try and get an understanding of what's required. Forward planning is the issue here, printing off briefs and working out what's required early on is the solution...I hope.
+
+### Comp220
+This module isn't causing any issues at the moment. I got element buffers working and I think I understand them as well as the rest of the code so far. So far, all I've been doing is following the live coding, and I need to step away from that and find my own take on this project. There will be more room for doing so in the coming weeks when I come to refactor my code, for which I need to get a good understanding of C++ classes for. Can't let my work for this module die down in the studio week, I will try and plan time for how I'm going to manage next week's time.
+
+### Comp230
+No session due to pitches for which I have gone into detail for below.
+
+### Game Project
+Start of the proper sprints for the game project, pitch went well. My notes were on paper this time since I knew the presentation setting wasn't ideal (amber). Critisism from my last pitch was the lack of eye contact, this was caused by me not writing down the notes and having to use the screen in the bottom right of the room, and also not learning the presentation enough to remember it without notes.
+
+I fixed the project after it having been opened and saved in the latest (wrong) version of unity, I was able to go back into the svn logs and revert it back to the last time I touched it. Future reverts should be quicker now I know the process, although I'm hoping I don't need to do this again.
+
+With the start of the sprints we've had a peer crit session for acknowledging where team members need to improve. My feedback was to communicate with the team more, specifically the other programmers. I can see where this came from because, although I said what I was doing, I wasn't really keeping an eye on what the other 2 were doing. Turns out they were a little lost with their specific roles and how their code would interract with mine, which I wasn't able to help with because I didn't know/ask. For my own personal goal I planned to keep more up to date with what the team were working on, with an easily achievable task of setting my notifications on slack to all.
+
+### General Comments
+Having printed off my module briefs (cpd included) I have skimmed over the brief for this task. I should've known it was going to be essentially the same thing as last year, but anyhow, I'm going to have to go back and try and pick out the most important bits for each week and try to formalise my objectives and how to achieve them.
+
+This is more than I need to be writing for each week, but at this point I'm finding it quite good to get everything down on "paper". Not only will this help with my objectives, but typing everything out gives me a good opportunity to reflect and prioritise tasks. I've realised trying to go 9-5 is not going to happen, although I have been finding my time to be a lot more well managed than last year. Being already settled into the various systems is helping.
