@@ -40,6 +40,9 @@ The game project has started off with our team having a group discussion which t
 ### General Comments
 I am going to try and sort out my time management so that I split my module time appropriately. Another focus will be to respect my free time and allow appropriate breaks so I don't burn myself out. In order to do this, I will avoid deviating from a 9-5 work schedule as much as possible. The exception will be this weekend and currently since there was some wasted time during the week and I want to get a plan sorted as early as possible.
 
+### Summary and Critiques
+Said what I did each week, not too much of note objective-wise since it's the first week.
+
 ## 2nd - 6th October (Week 2)
 
 ### Comp210
@@ -57,6 +60,10 @@ From the first 3 micro prototypes we picked our first one to prototype which was
 ### General Comments
 The 9-5 schedule has not been going to plan and I have been working on weekends to compensate for that. This is less about getting the work done and more about trying to routine myself, but so far it has not been successful.
 
+### Summary and Critiques
+Make a more valuable prototype, reflect the value in the game, not a technical aspect
+Failing to routine my work into stable hours.
+
 ## 9th - 13th October (Week 3)
 
 ### Comp210
@@ -73,6 +80,13 @@ We've now moved over to the second prototype which is the wacky guns, I've done 
 
 ### General Comments
 Last 2 weeks were a bit of a productivity slump, not to an extreme extent, but I know I could and should be doing more. I plan on catching up this weekend, as I have done with these write-ups, and move towards more consistancy next week.
+
+### Summary and Critiques
+Survey and questions weren't sorted out.
+Didn't do the postit thing, funnily enough, a lot of the people who weren't contributing didn't turn up.
+Almost got too invested in my own idea, was just able to break away from it, but try not to at the prototype stage. This wasn't exactly helped by being asked by one of the tutors to pick a favourite out of the games at this early stage.
+This week started me off on a good footing for a clean svn repo, this has been kept up, I will need to keep an eye on the game's structure as it grows.
+Less productivity is an issue, plan your time to stop this happening again.
 
 ## 16th - 20th October (Week 4)
 
@@ -95,6 +109,9 @@ I have programmed a lot of the car physics this week and have got a lot more don
 ### General Comments
 Feeling a lot more productive this week. This may partly be down to the game project properly starting or an improvement in my Unity coding. I have been commiting individual changes that I make, and I have told the team through trello and slack about what I'm up to. These were 2 points from a previous CPD which have seen improvement.
 
+### Summary and Critiques
+Possibly jumped too much into the driving mechanics early on, probably because I don't have much familiarity with unity and wanted to learn with something comfortable.
+Program the part that makes the game the game to assess if it's fun.
 
 ## 23rd - 27th October (Week 5)
 
@@ -118,3 +135,7 @@ With the start of the sprints we've had a peer crit session for acknowledging wh
 Having printed off my module briefs (cpd included) I have skimmed over the brief for this task. I should've known it was going to be essentially the same thing as last year, but anyhow, I'm going to have to go back and try and pick out the most important bits for each week and try to formalise my objectives and how to achieve them.
 
 This is more than I need to be writing for each week, but at this point I'm finding it quite good to get everything down on "paper". Not only will this help with my objectives, but typing everything out gives me a good opportunity to reflect and prioritise tasks. I've realised trying to go 9-5 is not going to happen, although I have been finding my time to be a lot more well managed than last year. Being already settled into the various systems is helping.
+
+### Summary and Critiques
+From pitching feedback, I needed more eye contact and not to be kneeling(oops). I'd love to blame the room, but knowing the limitations ahead of time, I was able to write notes on bits of card and with rehersal, the game pitch was delivered a lot more confidently and professionally. There was also music in this pitch too and I was able to plan ahead and bring a portable speaker.
+When presenting, prepare for any situation and bring backups for things. For audio, bring a speaker, practice presenting more and if I need notes, write them down.
