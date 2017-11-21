@@ -142,3 +142,71 @@ This is more than I need to be writing for each week, but at this point I'm find
 ### Summary and Critiques
 From pitching feedback, I needed more eye contact and not to be kneeling(oops). I'd love to blame the room, but knowing the limitations ahead of time, I was able to write notes on bits of card and with rehersal, the game pitch was delivered a lot more confidently and professionally. There was also music in this pitch too and I was able to plan ahead and bring a portable speaker.
 When presenting, prepare for any situation and bring backups for things. For audio, bring a speaker, practice presenting more and if I need notes, write them down.
+
+## 30th October - 3rd November (Week 6)
+
+### Game Project
+Studio practice week this week so mostly been working on the game project, nothing really to note outside of what has been brought up in PO meetings.
+
+### Summary and Critiques
+Although this was the studio practice week, I probably should've done more work on other modules since there are some things that would be good to start earlier. Don't get blindsided by one module, keep up work for multiple ones. Work for at least 2 hours on each module outside of sessions (obviously do more, but just to get an idea of where the work should be getting put in).
+
+## 6th October - 10th November (Week 7)
+
+### Comp210
+Starting to link papers together for the journal. Noticable sections are emerging and I will start branching off from the given material and finding my own papers. I will keep it within the topics I have found since there isn't much room for extra sections.
+
+### Comp220
+Lighting and materials, made notes in this session, but haven't implemented them yet. I need to be careful with falling behind on this module, but so far I feel like I'm following it. I need to start branching out and exploring things on my own.
+
+### Comp230
+Presented my ethics and professionalism essay proposal. This time I made immediate note of the feedback ready for the essay. It was a lot more useful doing this when it was fresh.
+
+### Game Project
+Didn't have a build until just before the PO meeting, make sure this is done, with builds possibly being done at the end of every day/ every 2 days. There is a discrepancy between my Trello hours logged and stand up hours, since I end up getting into working and flowing straight onto another tasks. This is a tricky issue to solve, since logging more on trello might actually mean I do less work.
+
+### General Comments
+Seem to be getting better at scholarly writing, the marks will show whether or not I am right.
+
+### Summary and Critiques
+Think about a way of logging hours on trello more accurately without sacrificing the amount of work done.
+
+## 13th October - 17th November (Week 8)
+
+### Comp210
+Submission for research journal. This was a tricky one mainly because I wanted to focus more on the journals surrounding the psychology of VR. I was able to read a reasonable amount of papers and ended up really enjoying researching for this essay. Would've been able to reach a higher part of the rubric if I had started reading earlier. Look at briefs early, little bits over time is how I need to be working. Started working on my prototype this week too, spent a lot of time over the weekend since I found it very engaging. Taking photos and videos of my progress has been very useful since the design has changed a lot.
+
+### Comp220
+Submission for the maths library. This should've been started earlier with a collaboration with the class. Again this goes back to looking at submissions at the start of a semester and understanding what is needed. Pair programming with Alex helped a lot since we could have one person refering to documentation and another typing, both thinking about how to implement the code. We swapped roles a couple of times. Working on this has definitely improved my understanding of the maths behind graphics programming. Implemented a mouse controlled camera and was able to come up with a better solution for how it moves that a function which was suggested by someone. I think I'm in more of a position to develop my own project further, I just need to put the time in.
+
+### Comp230
+Ethics and professionalism essay, with a peer review of the drafts. I felt that the way I approached my essay allowed me to create a good flow and structure, but I will see when the feedback comes for that. Almost missed out on answering part of my question, but in reading it over I was able to rectify this. In future essays I will definitely try to structure it in a similar way if the response is good. Didn't get particularly useful advice in the peer review despite offering a lot myself, I'd have taken it as a compliment if I wasn't feeling like I was short changed.
+
+### Game Project
+Roast session, general response of my contribution to the game has been good. Work has depleted a little bit because of the various hand ins for other modules this week. I will try and make up my sprint hours once they are done. Communication in the team still appears to be an issue in the team, even with programmer/designer meetings since they take to long to be frequent enough for the kind of back and forth conversation that needs to be happening.
+
+### General Comments
+Essay hand in week has been relatively stress free. All essays were completed and handed in around 24 hours or more in advance, which is a much better way to work than last year.
+
+### Summary and Critiques
+Still falling a bit behind on the live coding videos after getting sidetracked by other things. I need to split up my modules and, unless it's obvious one needs more attention in a week, I will space this out evenly. If possible I will allow an hour after each session for working on something extra, this can now be done in the extra time we have been given for comp220. Come up with a way of communicating with designers in a quick manner.
+
+## 20th October - 24th November (Week 9)
+
+### Comp210
+Tested my VR demo for the first time with the VR headset and demoed it in the session. I calibrated the size of objects and was able to make tweaks after the session to improve my design. It has come a long way over the weekend, but I need to do a lot more to fulfil what I am planning. This is now my highest priority module since the graphics submission is after Christmas.
+
+### Comp220
+Mostly followed lecture, really need to catch up on live coding videos though before it becomes an issue so I can resolve anything I need to before Christmas.
+
+### Comp230
+
+
+### Game Project
+Put forward a new way of getting communication between designers and programmers. This involves designers writing a small 2/3 sentence google doc for one specific feature in the game and what they need to be able to edit the values of. This can then be commented on by programmers if more info is needed, which can then be responded to till there is enough info for the implementation to happen. Once coded, the public editable variables can be given back in the document for reference so the designer is able to make informed tweaks. Initial response from one of the designers was not positive, but I was able to convince them it was a good idea since the "1 page" contains a lot of surplus information for programmers as well as missing vital information out. It was also the case that it wasn't being pushed so changes made couldn't be seen, whereas the google docs 
+
+### General Comments
+Fell behind pretty drastically for the CPD tasks (hadn't written up since studio practice week). All caught up now, but really this shouldn't be happening. Prioritisation needs to be sorted, because I have been doing a lot of work so productivity isn't the problem here. My productivity has been way up this week, mainly with respect to the VR project, but also the game project. Comp220 is receiving the least time and this needs to be rectified.
+
+### Summary and Critiques
+To avoid falling behind on stuff like CPD write ups, make a note of tasks that need to be completed each week. I have made a personal trello board to break down what I need to do for each of the modules, which gives me a better idea of which things are a priority and how much I need to be doing. Might add a weekly task column for tasks that need to be done every week.
