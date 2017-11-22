@@ -1,3 +1,11 @@
+# Objectives/Points so far:
+
+* Make prototypes to reflect the fun in a game, not a technical aspect
+* Assume the worst presenting space when doing a presentation
+* Work for at least 2 hours above normal sessions on a module each week to determine
+* Build the game more frequently (every 2 days)
+* Formalise communication between programmers and designers
+
 # Goals from previous reports:
 
 ## Report 1
