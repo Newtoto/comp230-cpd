@@ -218,3 +218,36 @@ Fell behind pretty drastically for the CPD tasks (hadn't written up since studio
 
 ### Summary and Critiques
 To avoid falling behind on stuff like CPD write ups, make a note of tasks that need to be completed each week. I have made a personal trello board to break down what I need to do for each of the modules, which gives me a better idea of which things are a priority and how much I need to be doing. Might add a weekly task column for tasks that need to be done every week.
+
+## 27th October - 1st December (Week 10)
+
+### Comp210
+Networking
+
+### Comp220
+
+
+### Game Project
+
+
+### General Comments
+
+
+### Summary and Critiques
+
+## 4th October - 5th December (Week 11)
+
+### Comp210
+Getting sound into engine with steam audio, discussed with Al what to do with my project. Going to try and make it wireless by battery powering the Arduino 
+
+### Comp220
+
+
+### Game Project
+
+
+### General Comments
+
+
+### Summary and Critiques
+
