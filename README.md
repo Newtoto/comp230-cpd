@@ -225,15 +225,16 @@ To avoid falling behind on stuff like CPD write ups, make a note of tasks that n
 Networking
 
 ### Comp220
-
+Couldn't get bullet working in the lesson, not sure if it's something to do with my laptop. Will test to see.
 
 ### Game Project
-
+The team consider my work to be too clumped up and not spread out amongst the week. I'm not sure if this is actually an issue or just a reflection on the way I work most effectively (Large amounts at a time). Seeing as I'm used to coding in that mannor from work. Obviously I can't do large amounts on just the game project every day because it's not the only thing I need to do, and splitting up work to do multiple things in a day can make me less productive.
 
 ### General Comments
-
+Work is not quite as split up now since things have been submitted so the structure of the next weeks is probably going to be different.
 
 ### Summary and Critiques
+One possibly addition for smart goals is avoiding confrontation less when it is necessary.
 
 ## 4th October - 5th December (Week 11)
 
@@ -241,13 +242,10 @@ Networking
 Getting sound into engine with steam audio, discussed with Al what to do with my project. Going to try and make it wireless by battery powering the Arduino 
 
 ### Comp220
-
+First session I've missed, it was about creating the gameObject class which I have made considerable progress towards on my own. Caught up on live coding. My general understanding has definitely improved and it's starting to click.
 
 ### Game Project
-
-
-### General Comments
-
+Decided as a team that we're going to change the trajectory of the project, but it should be able to re-use things from before. This is something that I have been aware we have needed to do for a while, but didn't really want to think about it.
 
 ### Summary and Critiques
-
+Was able to catch up on live coding vids by planning out a small managable checklist to get completed on Sunday. This is a good system and I should do this for other days of the week with maybe a weekly checklist which I break down. It's easy to do at the moment because deadlines are close, making the tasks I need to do more obvious.
