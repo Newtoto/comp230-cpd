@@ -9,6 +9,7 @@
 * Cognitive - Tendancy to just jump in without much research into what I'm doing. Research topic for 30 minutes and write down key points before starting.
 * Affective - Pay attention to reasons for productivity slumps.
 
+## Definitions
 * Dispositional - ability to manage time and remain disciplined
 * Affective - ability to identify and manage different mental states and emotions
 * Interpersonal - ability to communicate and organise activity with peers
