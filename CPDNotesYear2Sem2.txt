@@ -1,0 +1,37 @@
+Comp240
+Had a week game jam, got a playable game by the end. Start projects like this to get prototyping.
+Started using a physical taskboard for the game project, seems to be working better than online boards.
+Forgot about scripts that I wrote, thought they were someone else's so I thought they were contributing more than they were. Maybe make a note of what you've done/written.
+Misunderstood the brief for business presentation, should probably clarify what needs to be done. Don't rely on printing off briefs at the start of the year.
+Should have planned out the business structure earlier, not knowing how much work was involved till later on built up the work in my mind, contributed to stress.
+Game demo video, someone else said they'd do it, took it on the day before because it wasn't getting done. Follow up on teammates more, set deadlines and impose them.
+Game turned out pretty well with a good structure and playability. Crunch was very intense, ended up working about 16 hours in a day because of build errors that were found late due to someone's late audio additions. Not sure how I can help this, maybe more frequent testing would've provided a roll back to version that worked making the issue easier to find.
+
+Comp250
+Got a bit lost with some of the lectures not knowing how to apply what was being taught, namely monte carlo. I get the concept but not how it would practically be applied within this module.
+Structure for AI was only half thought out, wasn't too bad, but wasn't quite as clean as it could've been with a bit more visual planning before hand.
+Overscoped the AI, although I did design it so that it could be done in progressing chunks. Would've liked to have got the different personalities in.
+Remained confused for a long time about the AI project, actually tried planning it out before hand, but the code was so alien that when I got into it the plan wasn't useful.
+Getting more of an understanding of the AI code and can actually adapt to the plan. Starting from scratch was a good idea since I understand it and I think my variable names are far more usefull than the ones used in the default bots.
+AI component isn't being fully utilised in the game, maybe it would've been worth talking it through with the designers, but it wasn't a priority and the concept is proven in my own scene at least.
+
+Comp260
+Socket stuff is a bit confusing, tried to start with the wrong sample code which didn't help.
+Managed to knock something together from the winform project, increasing understanding of networking stuff. The winform stuff still doesn't really make sense to me though.
+Structure of the project needs working on, will have to refactor, been mostly just trying to get stuff working.
+Put the server code on the server and it runs so that's a good start to the second part of the project.
+Left quite a bit of a gap between putting the code on the server and starting to work on it again, been focussing on the game project.
+Refactored the client with fancy metro winforms from a fresh project, I actually understand what winforms is doing now which is nice.
+Started working on adding database integration now that the game project is submitted, wasn't too difficult once I got into it.
+Done a heavy refactor on the networking which surprisingly worked out well. Process for updating the build on the server is quite tedious so making small changes to fix little things can take a while.
+Nice to be able to understand use of C# classes, but I've been using a lot of the same kind of methods for solving problems ifs and fors etc. etc.
+
+General
+Week of the 3 deadlines (Mon Wed Fri) been stressing out quite a lot.
+Made the deadlines in good time so it's not a lack of ability to do it, probably more of a mindset thing.
+Been commenting a lot as I go along, for all modules, it's kinda how I plan things out before I write them. Definitely helps a lot for understanding what's happening if it's new to me.
+Been stressing out again quite a lot this month (Apr) with work, similar feeling to before Easter, but intensified quite a lot.
+Again, made deadlines with plenty of time, need to work on the mindset stuff, some kind of calming measure needs to be adopted. Maybe if I was more aware of what I had to do I would know that I have plenty of time to do it?
+Did some networking at a wedding, someone who knows Brian, they make software in Unity but not games, might think about stepping away from games as a career path. Reverting back to the plan before starting this course.
+Contrarily to the past, I have found it quite helpful to focus on one module at a time just so I can get into the headspace of it. Switching between them was proving more stressful for me and less productive.
+Went onto Codewars to try it out to see if it's a suitable way of learning, been able to solve Katas and they're actually quite fun. Seeing other people's solutions could prove handy too. Should be quite useful to be able to show I can do things when trying to get jobs too.
